@@ -1,15 +1,15 @@
 {
-  "name": "24/7",
+  "name": "AFKbot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SurvivalCraftMC-JJL.aternos.me",
     "port": 55353,
-    "version": "",
-    "try-creative": false
+    "version": "26.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
