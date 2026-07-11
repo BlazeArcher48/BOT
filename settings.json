@@ -8,7 +8,7 @@
   "server": {
     "ip": "SurvivalWorldMC.aternos.me",
     "port": 17131,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
